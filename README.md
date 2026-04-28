@@ -1,0 +1,2 @@
+# Licencjat
+Zawiera pliki wizualizujące.
